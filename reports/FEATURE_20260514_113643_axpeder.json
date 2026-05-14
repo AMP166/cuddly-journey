@@ -1,0 +1,13 @@
+{
+  "id": "FEATURE_20260514_113643_axpeder",
+  "title": "Test Report",
+  "type": "Feature",
+  "description": "This is a test report from the build script",
+  "priority": "Low",
+  "reporter": "axpeder",
+  "model": "Claude Opus 4.6",
+  "chat_id": "",
+  "chat_log": "",
+  "timestamp": "2026-05-14T11:36:43.972024",
+  "app_version": "1.0.0"
+}
