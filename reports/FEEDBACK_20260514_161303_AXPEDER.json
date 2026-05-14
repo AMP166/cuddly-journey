@@ -1,0 +1,13 @@
+{
+  "id": "FEEDBACK_20260514_161303_AXPEDER",
+  "title": "test444",
+  "type": "Feedback",
+  "description": "333333",
+  "priority": "Medium",
+  "reporter": "AXPEDER",
+  "model": "Auto",
+  "chat_id": "6924c001-5a64-4055-918f-628004b5d00b",
+  "chat_log": "[{\"role\":\"user\",\"content\":\"test\",\"model_used\":\"\"},{\"role\":\"assistant\",\"content\":\"What would you like to work on or test? I can help with code, debugging, explanations, or trying out the local tools.\",\"model_used\":\"GPT\"}]",
+  "timestamp": "2026-05-14T16:13:03.104351",
+  "app_version": "1.0.0"
+}
