@@ -5,13 +5,15 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 04:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:36:45 +0000</lastBuildDate>
     <item>
-      <title>[System] Bug Report Feed Initialized</title>
-      <description>The MBMTh AI bug report feed is now active. New reports will appear here automatically.</description>
-      <pubDate>Thu, 14 May 2026 04:13:11 +0000</pubDate>
-      <guid>init-1778706791</guid>
-      <category>System</category>
+      <title>💡 [Feature] Test Report</title>
+      <description>Priority: Low | Reporter: axpeder
+
+This is a test report from the build script</description>
+      <pubDate>2026-05-14T11:36:43.972024</pubDate>
+      <guid>FEATURE_20260514_113643_axpeder</guid>
+      <category>Feature</category>
     </item>
   </channel>
 </rss>
