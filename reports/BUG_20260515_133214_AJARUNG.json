@@ -1,0 +1,13 @@
+{
+  "id": "BUG_20260515_133214_AJARUNG",
+  "title": "Hello buggy",
+  "type": "Bug",
+  "description": "buggy",
+  "priority": "Medium",
+  "reporter": "AJARUNG",
+  "model": "Auto",
+  "chat_id": "",
+  "chat_log": "",
+  "timestamp": "2026-05-15T13:32:14.708307",
+  "app_version": "1.0.0"
+}
