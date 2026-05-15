@@ -5,24 +5,6 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 04:17:17 +0000</lastBuildDate>
-    <item>
-      <title>🐛 [Bug] additional test</title>
-      <description>Priority: Medium | Reporter: Axel
-
-testing</description>
-      <pubDate>2026-05-15T11:17:14.929343</pubDate>
-      <guid>BUG_20260515_111714_Axel</guid>
-      <category>Bug</category>
-    </item>
-    <item>
-      <title>💬 [Feedback] Feedback System Test</title>
-      <description>Priority: Critical | Reporter: AXPEDER
-
-This is a test of the feedback system, all users should be able to see this.</description>
-      <pubDate>2026-05-15T10:39:55.935035</pubDate>
-      <guid>FEEDBACK_20260515_103955_AXPEDER</guid>
-      <category>Feedback</category>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 04:18:05 +0000</lastBuildDate>
   </channel>
 </rss>
