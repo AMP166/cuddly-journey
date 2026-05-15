@@ -1,0 +1,13 @@
+{
+  "id": "FEEDBACK_20260515_103955_AXPEDER",
+  "title": "Feedback System Test",
+  "type": "Feedback",
+  "description": "This is a test of the feedback system, all users should be able to see this.",
+  "priority": "Critical",
+  "reporter": "AXPEDER",
+  "model": "Claude",
+  "chat_id": "ce22aa9d-accd-4a4e-89a5-7fe6ed99fadf",
+  "chat_log": "[{\"role\":\"user\",\"content\":\"hi\",\"model_used\":\"\"},{\"role\":\"assistant\",\"content\":\"Hi there! How can I help you today? I'm ready to assist with coding, file management, debugging, or any other tasks you might need help with.\",\"model_used\":\"Claude\"}]",
+  "timestamp": "2026-05-15T10:39:55.935035",
+  "app_version": "1.0.0"
+}
