@@ -5,7 +5,16 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 06:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 06:32:19 +0000</lastBuildDate>
+    <item>
+      <title>🐛 [Bug] Hello buggy</title>
+      <description>Priority: Medium | Reporter: AJARUNG
+
+buggy</description>
+      <pubDate>2026-05-15T13:32:14.708307</pubDate>
+      <guid>BUG_20260515_133214_AJARUNG</guid>
+      <category>Bug</category>
+    </item>
     <item>
       <title>🐛 [Bug] Test</title>
       <description>Priority: Medium | Reporter: PLERDWI
