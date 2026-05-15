@@ -1,0 +1,13 @@
+{
+  "id": "BUG_20260515_111714_Axel",
+  "title": "additional test",
+  "type": "Bug",
+  "description": "testing",
+  "priority": "Medium",
+  "reporter": "Axel",
+  "model": "Auto",
+  "chat_id": "",
+  "chat_log": "",
+  "timestamp": "2026-05-15T11:17:14.929343",
+  "app_version": "1.0.0"
+}
