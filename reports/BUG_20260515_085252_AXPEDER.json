@@ -1,0 +1,13 @@
+{
+  "id": "BUG_20260515_085252_AXPEDER",
+  "title": "test",
+  "type": "Bug",
+  "description": "test",
+  "priority": "Medium",
+  "reporter": "AXPEDER",
+  "model": "Auto",
+  "chat_id": "",
+  "chat_log": "[{\"role\":\"user\",\"content\":\"make an image of a dog\",\"model_used\":\"\"}]",
+  "timestamp": "2026-05-15T08:52:52.376623",
+  "app_version": "1.0.0"
+}
