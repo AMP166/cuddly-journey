@@ -5,7 +5,16 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 06:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 06:53:02 +0000</lastBuildDate>
+    <item>
+      <title>🐛 [Bug] AI thinks, we are in 2025 not 2026</title>
+      <description>Priority: Medium | Reporter: marberge
+
+Can this be? Why? Can we fix it?</description>
+      <pubDate>2026-05-15T13:52:54.268828</pubDate>
+      <guid>BUG_20260515_135254_marberge</guid>
+      <category>Bug</category>
+    </item>
     <item>
       <title>🐛 [Bug] Something</title>
       <description>Priority: Medium | Reporter: AXPEDER
