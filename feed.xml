@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>MBMTh AI - Bug Reports &amp; Feature Requests</title>
-    <link>https://amp166.github.io/cuddly-journey/</link>
-    <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
-    <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 03:10:42 +0000</lastBuildDate>
-    <item>
-      <title>🐛 [Bug] Image reading not done</title>
-      <description>Priority: Medium | Reporter: marberge
-
-Image not read properly and start to work on something else as a guess.</description>
-      <pubDate>2026-05-20T10:10:37.529128</pubDate>
-      <guid>BUG_20260520_101037_marberge</guid>
-      <category>Bug</category>
-    </item>
-    <item>
-      <title>💬 [Feedback] Can't convert picture to excel table</title>
-      <description>Priority: Medium | Reporter: AJARUNG
-
-Can't convert picture to excel table and command hanging</description>
-      <pubDate>2026-05-20T08:24:40.768537</pubDate>
-      <guid>FEEDBACK_20260520_082440_AJARUNG</guid>
-      <category>Feedback</category>
-    </item>
+    <title>MBMTh AI - Bug Reports</title>
+    <lastBuildDate>Wed, 20 May 2026 06:03:33 +0000</lastBuildDate>
   </channel>
 </rss>
