@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>MBMTh AI - Bug Reports</title>
-    <lastBuildDate>Wed, 20 May 2026 06:03:33 +0000</lastBuildDate>
+    <title>MBMTh AI - Bug Reports &amp; Feature Requests</title>
+    <link>https://amp166.github.io/cuddly-journey/</link>
+    <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 May 2026 07:22:36 +0000</lastBuildDate>
+    <item>
+      <title>🐛 [Bug] HEIC Images break the system</title>
+      <description>Priority: Medium | Reporter: AXPEDER
+
+View chat log</description>
+      <pubDate>2026-05-21T14:22:34.515098</pubDate>
+      <guid>BUG_20260521_142234_AXPEDER</guid>
+      <category>Bug</category>
+    </item>
   </channel>
 </rss>
