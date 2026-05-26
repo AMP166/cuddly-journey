@@ -5,7 +5,16 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 07:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:02:37 +0000</lastBuildDate>
+    <item>
+      <title>🐛 [Bug] Image generation creates error</title>
+      <description>Priority: Medium | Reporter: marberge
+
+while changing from claude to image, error happened. No image creation possible.</description>
+      <pubDate>2026-05-26T14:02:33.747521</pubDate>
+      <guid>BUG_20260526_140233_marberge</guid>
+      <category>Bug</category>
+    </item>
     <item>
       <title>🐛 [Bug] HEIC Images break the system</title>
       <description>Priority: Medium | Reporter: AXPEDER
