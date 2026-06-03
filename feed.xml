@@ -5,7 +5,16 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 08:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 01:45:10 +0000</lastBuildDate>
+    <item>
+      <title>🐛 [Bug] ❌ Error: An error occurred (ValidationException) when calling the Converse operation: The model returned the following errors: messages.320.content.3.image.source.base64: image exceeds 5 MB maximum: 6729540 bytes > 5242880 bytes</title>
+      <description>Priority: Medium | Reporter: marberge
+
+❌ Error: An error occurred (ValidationException) when calling the Converse operation: The model returned the following errors: messages.320.content.3.image.source.base64: image exceeds 5 MB maximum: 6729540 bytes &gt; 5242880 bytes</description>
+      <pubDate>2026-06-03T08:45:03.288252</pubDate>
+      <guid>BUG_20260603_084503_marberge</guid>
+      <category>Bug</category>
+    </item>
     <item>
       <title>🐛 [Bug] Error: An error occurred (503) when calling the Converse operation: Service Unavailable</title>
       <description>Priority: High | Reporter: marberge
