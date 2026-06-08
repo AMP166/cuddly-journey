@@ -5,7 +5,16 @@
     <link>https://amp166.github.io/cuddly-journey/</link>
     <description>Bug reports, feature requests, and feedback for MBMTh AI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 01:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:23:11 +0000</lastBuildDate>
+    <item>
+      <title>💡 [Feature] Adding favorite or pin chat feature</title>
+      <description>Priority: Medium | Reporter: AJARUNG
+
+Request to study adding favorite or pin chat feature</description>
+      <pubDate>2026-06-08T09:23:03.847476</pubDate>
+      <guid>FEATURE_20260608_092303_AJARUNG</guid>
+      <category>Feature</category>
+    </item>
     <item>
       <title>🐛 [Bug] ❌ Error: An error occurred (ValidationException) when calling the Converse operation: The model returned the following errors: messages.320.content.3.image.source.base64: image exceeds 5 MB maximum: 6729540 bytes > 5242880 bytes</title>
       <description>Priority: Medium | Reporter: marberge
